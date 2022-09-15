@@ -2,7 +2,7 @@
 # Wrapper for create bash-script of Debian
 #Manuals:
 #1) If need to install depencies:
-#  sudo apt-get install -y jq bc pup
+#  sudo apt-get install -y jq
 #2) Change and Move this file to /usr/local/bin
 #3) Give permission to run:
 #   chmod +x your_script_name
